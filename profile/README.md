@@ -46,4 +46,4 @@ AI가 취향을 학습해서 오늘 먹을 메뉴와 가게를 골라주는 서�
 
 ## 📑 발표자료
 
-[**요기픽 발표자료 (PDF)**](https://github.com/yogipick/.github/blob/main/profile/assets/yogipick-presentation.pdf)
+[**📖 온라인으로 보기**](https://github.com/yogipick/.github/blob/main/profile/assets/yogipick-presentation.pdf) · [**⬇️ 다운로드**](https://github.com/yogipick/.github/raw/main/profile/assets/yogipick-presentation.pdf)
