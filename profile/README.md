@@ -43,3 +43,7 @@ AI가 취향을 학습해서 오늘 먹을 메뉴와 가게를 골라주는 서�
 |------|------|
 | [`yogipick-frontend`](https://github.com/yogipick/yogipick-frontend) | Expo 모바일 앱 (스와이프 UI · 그룹 WS) |
 | [`yogipick-backend`](https://github.com/yogipick/yogipick-backend) | NestJS API · 벡터 추천 엔진 · WebSocket 게이트웨이 |
+
+## 📑 발표자료
+
+[**요기픽 발표자료 (PDF)**](https://github.com/yogipick/.github/blob/main/profile/assets/yogipick-presentation.pdf)
